@@ -1,0 +1,59 @@
+.logo{
+    background-color: darkblue;
+    text-align-last: center;
+    color: cornsilk;
+}
+.informacion {
+    background: lightgoldenrodyellow;
+    color: mediumslateblue;
+}
+.skill {
+    text-align: center;
+    background:darkblue;
+    color: antiquewhite;
+}
+
+.contacto {
+    background: darkblue;
+    color: cornsilk;
+    text-align-last: center;
+}
+
+
+
+
+.html:hover {
+    color: #07d544;
+    cursor: pointer;
+  }
+
+  .css:hover {
+    color: #07d544;
+    cursor: pointer;
+  }
+
+  .javascript:hover {
+    color: #07d544;
+    cursor: pointer;
+  }
+
+
+  .python:hover {
+    color: #07d544;
+    cursor: pointer;
+  }
+
+
+  .ruby:hover {
+    color: #07d544;
+    cursor: pointer;
+  }
+
+
+  .mysql:hover {
+    color: #07d544;
+    cursor: pointer;
+  }
+
+
+  
